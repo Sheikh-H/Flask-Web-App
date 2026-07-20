@@ -1,4 +1,4 @@
-<h1 align="center">📲 Flask Website</h1>
+<h1 align="center">📲 Flask Web Application</h1>
 
 <p align="center">
   I participated in the <a href = 'https://github.com/Asabeneh/30-Days-Of-Python'>30 Days Of Python Course by Asabeneh Yetayeh</a>, and this was what I built by the end of it all.
